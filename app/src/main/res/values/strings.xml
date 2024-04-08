@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Newwe</string>
+    <string name="title_activity_firstscreen">Firstscreen</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="title_activity_4">Activity4</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+</resources>
